@@ -1,3 +1,10 @@
 {
-  "statuses": {}
+  "statuses": {
+    "7188906494": {
+      "emoji_doc_id": 6323259399603226374,
+      "title_emoji": "",
+      "caption": "Тест",
+      "updated_at": 1768560841
+    }
+  }
 }
